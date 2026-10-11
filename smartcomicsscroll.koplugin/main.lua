@@ -57,7 +57,7 @@ local SmartScroll = WidgetContainer:extend{
     layout = nil,
     current_y = nil,
     overlay = nil,
-    visual_debug = true, -- ON by default for experimental builds
+    visual_debug = false, -- OFF by default; available in settings
     last_snap = nil,
     navigating = false,
     debug_taps = 0,
@@ -84,7 +84,7 @@ function SmartScroll:readSettings()
     self.settings = LuaSettings:open(DataStorage:getSettingsDir() .. "/smart_comics_scroll.lua")
     local function n(k,d) return tonumber(self.settings:readSetting(k)) or d end
     self.is_enabled = self.settings:readSetting("is_enabled") ~= false
-    self.visual_debug = self.settings:readSetting("visual_debug") ~= false
+    self.visual_debug = self.settings:readSetting("visual_debug") == true
     self.white_threshold = n("white_threshold",245)
     self.white_ratio = math.min(n("white_ratio",0.92),0.92)
     self.black_threshold = n("black_threshold",14)
