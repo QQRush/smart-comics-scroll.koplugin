@@ -10,6 +10,8 @@ The idea for **Smart Comics Scroll** was inspired by a thoughtful comment from *
 
 **[Jellby's original post — with two illustrative mock-up images](https://www.mobileread.com/forums/showpost.php?p=4575952&postcount=11)**
 
+![Illustration shared by Jellby on MobileRead](https://www.mobileread.com/forums/attachment.php?attachmentid=222116&d=1774704200)
+
 In that post, Jellby shared **two example images** to explain a more natural way to read comics: keeping the surrounding page visible instead of cropping to a single panel, and using panel boundaries to guide screen-by-screen reading so panels are not awkwardly cut off. Those examples helped inspire this project. Thank you, Jellby, for the idea and clear illustrations!
 
 Smart Comics Scroll is also **partly derived from [Smart Webtoon Scroll](https://github.com/QQRush/smart-webtoon-scroll.koplugin)**. It reuses and adapts parts of that project's approach and code for separator-aware navigation, while focusing on **traditional comics and manga in landscape mode**, rather than long vertical webtoons. Both projects are developed by [QQRush](https://github.com/QQRush).
