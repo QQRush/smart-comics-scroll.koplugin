@@ -22,6 +22,12 @@ The two original mock-up images remain available in the linked MobileRead post, 
 
 The comic artwork shown in the demonstration is from **[Pepper&Carrot — Episode 39: The Tavern](https://www.peppercarrot.com/)**, created by **[David Revoy](https://www.davidrevoy.com/)** (art and story). Original comic and author: [peppercarrot.com](https://www.peppercarrot.com/). Artwork attribution: © David Revoy; see the [official credits and licensing information](https://www.peppercarrot.com/en/about/index.html). The comic is not included in the plugin distribution.
 
+## Demo video
+
+[![Watch Smart Comics Scroll demo on YouTube](https://img.youtube.com/vi/EC0JDg7Stds/hqdefault.jpg)](https://youtu.be/EC0JDg7Stds)
+
+[Watch the demonstration on YouTube](https://youtu.be/EC0JDg7Stds).
+
 ## Features
 
 - Full-width rendering with conservative removal of white side margins.
