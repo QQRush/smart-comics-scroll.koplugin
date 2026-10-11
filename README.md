@@ -1,5 +1,7 @@
 # Smart Comics Scroll
 
+![Smart Comics Scroll — Before and After comparison showing cut dialogue versus separator-aware reading](smart-comics-scroll-before-after.png)
+
 **v0.1.0-beta** · Community plugin for [KOReader](https://github.com/koreader/koreader)
 
 Read image-based comics in **landscape orientation** with full-width rendering and screen-by-screen navigation that looks for horizontal white/black separators. Unlike panel-by-panel readers, Smart Comics Scroll does not attempt to detect individual panels.
