@@ -1,0 +1,1 @@
+# smart-comics-scroll.koplugin
