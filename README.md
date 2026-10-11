@@ -18,6 +18,10 @@ Smart Comics Scroll is also **partly derived from [Smart Webtoon Scroll](https:/
 
 The two original mock-up images remain available in the linked MobileRead post, with credit to their author.
 
+### Comic artwork credits
+
+The comic artwork shown in the demonstration is from **[Pepper&Carrot — Episode 39: The Tavern](https://www.peppercarrot.com/)**, created by **[David Revoy](https://www.davidrevoy.com/)** (art and story). Original comic and author: [peppercarrot.com](https://www.peppercarrot.com/). Artwork attribution: © David Revoy; see the [official credits and licensing information](https://www.peppercarrot.com/en/about/index.html). The comic is not included in the plugin distribution.
+
 ## Features
 
 - Full-width rendering with conservative removal of white side margins.
