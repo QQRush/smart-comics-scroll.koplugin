@@ -39,6 +39,8 @@ The comic artwork shown in the demonstration is from **[Pepper&Carrot — Episod
 3. Restart KOReader.
 4. Open a supported image-based comic in **landscape** and enable **Smart Comics Scroll** in the reader menu.
 
+**Landscape tip:** In KOReader, set the desired landscape rotation (90° or 270°, depending on your device) and enable **Keep current rotation across views** in the rotation menu. This keeps landscape active when opening a new manga/CBZ, including files you have never opened before. No Auto Landscape plugin patch is needed.
+
 The plugin **does not rotate the screen automatically**. If you already used an experimental build, saved preferences (including visual debug) may carry over.
 
 ## Gestures
